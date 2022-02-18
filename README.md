@@ -31,11 +31,15 @@
 ### 部署架构图
 
 
+<details>
+<summary><strong>点开查看架构图，图一为本程序，图二为ikuai</strong></summary>
+
 ![本程序架构图](https://raw.githubusercontent.com/bytebitgo/node-adsl/main/img/new.jpeg "new")
 
 
-
 ![Ikuai架构图](https://raw.githubusercontent.com/bytebitgo/node-adsl/main/img/old.png "old")
+
+</details>
 
 
 # 最近更新
