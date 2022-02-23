@@ -163,7 +163,7 @@ systemctl restart frpc
 # 安装 pppmgt
 
 ```shell
-rpm -ivh https://mirrors.xiangyundns.cn/init/ppp/pppmgt-1.0.0-13.el8-x86_64.rpmrpm -ivh https://mirrors.xiangyundns.cn/init/ppp/pppmgt-1.0.0-13.el8-x86_64.rpm
+rpm -ivh https://mirrors.xiangyundns.cn/init/ppp/pppmgt-1.0.0-15.el8-x86_64.rpm
 ```
 
 
